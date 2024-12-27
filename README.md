@@ -1,6 +1,7 @@
 生成AIを活用したゲームです！  
 
-![Uploading スクリーンショット 2024-12-26 0.01.46.png…]()
+![スクリーンショット 2024-12-26 0 01 46](https://github.com/user-attachments/assets/6f4fc62b-f2e2-46a0-a15b-5a751e0fc016)
+
 
 ![スクリーンショット 2024-12-26 0 05 10](https://github.com/user-attachments/assets/511cabd9-0752-407e-b10e-9b54009155ee)
 
