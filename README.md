@@ -1,3 +1,10 @@
+生成AIを活用したゲームです！  
+
+![Uploading スクリーンショット 2024-12-26 0.01.46.png…]()
+
+![スクリーンショット 2024-12-26 0 05 10](https://github.com/user-attachments/assets/511cabd9-0752-407e-b10e-9b54009155ee)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
